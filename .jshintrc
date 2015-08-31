@@ -70,7 +70,7 @@
     "jasmine"       : false,    // Jasmine
     "jquery"        : false,    // jQuery
     "mocha"         : false,    // Mocha
-    "Module"        : true,    // Module
+    "module"        : true,     // Module
     "mootools"      : false,    // MooTools
     "node"          : true,     // Node.js
     "nonstandard"   : false,    // Widely adopted globals (escape, unescape, etc)
