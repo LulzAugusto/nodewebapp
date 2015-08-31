@@ -3,9 +3,10 @@
 // =============================================================================
 
 // call the packages we need
-const express    = require('express');        // call express
+import express from 'express';       // call express
+import bodyParser from 'body-parser';
+
 const app        = express();                 // define our app using express
-const bodyParser = require('body-parser');
 
 // configure app to use bodyParser()
 // this will let us get the data from a POST
